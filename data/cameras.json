@@ -1,0 +1,227 @@
+[
+  {
+    "id": "cam_001",
+    "name": "ANPR CAM \u2013 Vidhana Soudha / Dr Ambedkar Veedhi",
+    "lat": 12.9796,
+    "lon": 77.5907,
+    "road_segment_id": "seg_ambedkar_veedhi_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_002",
+    "name": "ANPR CAM \u2013 Cubbon Park / Kasturba Road",
+    "lat": 12.9763,
+    "lon": 77.5929,
+    "road_segment_id": "seg_kasturba_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_003",
+    "name": "ANPR CAM \u2013 Indian Express Circle",
+    "lat": 12.9842,
+    "lon": 77.5951,
+    "road_segment_id": "seg_queens_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_004",
+    "name": "ANPR CAM \u2013 Anil Kumble Circle",
+    "lat": 12.9784,
+    "lon": 77.5997,
+    "road_segment_id": "seg_mg_rd_west_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_005",
+    "name": "ANPR CAM \u2013 MG Road Metro Junction",
+    "lat": 12.9756,
+    "lon": 77.6066,
+    "road_segment_id": "seg_mg_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_006",
+    "name": "ANPR CAM \u2013 Brigade Road / MG Road",
+    "lat": 12.9738,
+    "lon": 77.6074,
+    "road_segment_id": "seg_brigade_rd_01",
+    "lane_count": 2,
+    "speed_limit_kmh": 30.0
+  },
+  {
+    "id": "cam_007",
+    "name": "ANPR CAM \u2013 Church Street / St Marks Road",
+    "lat": 12.9741,
+    "lon": 77.6038,
+    "road_segment_id": "seg_church_st_01",
+    "lane_count": 2,
+    "speed_limit_kmh": 30.0
+  },
+  {
+    "id": "cam_008",
+    "name": "ANPR CAM \u2013 St Marks Road / Residency Road",
+    "lat": 12.9708,
+    "lon": 77.6016,
+    "road_segment_id": "seg_st_marks_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_009",
+    "name": "ANPR CAM \u2013 Mayo Hall / MG Road",
+    "lat": 12.9726,
+    "lon": 77.6102,
+    "road_segment_id": "seg_mg_rd_02",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_010",
+    "name": "ANPR CAM \u2013 Trinity Circle",
+    "lat": 12.973,
+    "lon": 77.6169,
+    "road_segment_id": "seg_old_airport_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_011",
+    "name": "ANPR CAM \u2013 Ulsoor Lake / Kensington Road",
+    "lat": 12.9814,
+    "lon": 77.619,
+    "road_segment_id": "seg_kensington_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_012",
+    "name": "ANPR CAM \u2013 Halasuru Metro / Old Madras Road",
+    "lat": 12.9786,
+    "lon": 77.6264,
+    "road_segment_id": "seg_old_madras_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_013",
+    "name": "ANPR CAM \u2013 Commercial Street / Dispensary Road",
+    "lat": 12.9826,
+    "lon": 77.6087,
+    "road_segment_id": "seg_commercial_st_01",
+    "lane_count": 2,
+    "speed_limit_kmh": 30.0
+  },
+  {
+    "id": "cam_014",
+    "name": "ANPR CAM \u2013 Russell Market / Shivajinagar",
+    "lat": 12.9839,
+    "lon": 77.6054,
+    "road_segment_id": "seg_shivajinagar_01",
+    "lane_count": 3,
+    "speed_limit_kmh": 30.0
+  },
+  {
+    "id": "cam_015",
+    "name": "ANPR CAM \u2013 Bowring Hospital Junction",
+    "lat": 12.9834,
+    "lon": 77.6078,
+    "road_segment_id": "seg_hospital_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_016",
+    "name": "ANPR CAM \u2013 Infantry Road / Queen's Road",
+    "lat": 12.9821,
+    "lon": 77.5982,
+    "road_segment_id": "seg_infantry_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_017",
+    "name": "ANPR CAM \u2013 Cunningham Road / Ali Asker Road",
+    "lat": 12.9872,
+    "lon": 77.5941,
+    "road_segment_id": "seg_cunningham_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_018",
+    "name": "ANPR CAM \u2013 Palace Road / High Grounds",
+    "lat": 12.9881,
+    "lon": 77.5879,
+    "road_segment_id": "seg_palace_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_019",
+    "name": "ANPR CAM \u2013 Race Course Road / Chalukya Circle",
+    "lat": 12.984,
+    "lon": 77.5848,
+    "road_segment_id": "seg_race_course_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_020",
+    "name": "ANPR CAM \u2013 Vittal Mallya Road / UB City",
+    "lat": 12.9716,
+    "lon": 77.5963,
+    "road_segment_id": "seg_vittal_mallya_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_021",
+    "name": "ANPR CAM \u2013 Richmond Circle",
+    "lat": 12.9615,
+    "lon": 77.5994,
+    "road_segment_id": "seg_richmond_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_022",
+    "name": "ANPR CAM \u2013 Double Road / Richmond",
+    "lat": 12.9588,
+    "lon": 77.5991,
+    "road_segment_id": "seg_kanteerava_double_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 50.0
+  },
+  {
+    "id": "cam_023",
+    "name": "ANPR CAM \u2013 Residency Road / Richmond Road",
+    "lat": 12.9662,
+    "lon": 77.6013,
+    "road_segment_id": "seg_residency_rd_01",
+    "lane_count": 4,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_024",
+    "name": "ANPR CAM \u2013 Lavelle Road / Field Marshal Cariappa Road",
+    "lat": 12.9694,
+    "lon": 77.5978,
+    "road_segment_id": "seg_lavelle_rd_01",
+    "lane_count": 3,
+    "speed_limit_kmh": 40.0
+  },
+  {
+    "id": "cam_025",
+    "name": "ANPR CAM \u2013 Langford Town / Hosur Road approach",
+    "lat": 12.9572,
+    "lon": 77.6071,
+    "road_segment_id": "seg_hosur_rd_01",
+    "lane_count": 6,
+    "speed_limit_kmh": 60.0
+  }
+]
