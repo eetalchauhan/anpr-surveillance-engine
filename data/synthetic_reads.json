@@ -1,0 +1,4826 @@
+[
+  {
+    "camera_id": "cam_023",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T07:05:11.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T070511000000_096.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 96,
+    "plate_text": "P872NT2533",
+    "confidence": 0.577,
+    "frame_ts": "2026-09-24T07:06:28.274+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T070628274158_096.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T07:06:47.481+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T070647481283_096.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T07:08:19.453+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T070819453219_096.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T07:09:06.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T070906000000_053.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.929,
+    "frame_ts": "2026-09-24T07:09:20.936+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T070920936996_096.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T07:09:28.941+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T070928941470_053.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 3,
+    "plate_text": "KA01EQ1234",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T07:10:26.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T071026000000_003.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T07:10:42.452+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T071042452878_053.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 3,
+    "plate_text": "KA01EQ1234",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T07:11:01.883+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T071101883472_003.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T07:11:28.609+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T071128609523_096.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 100,
+    "plate_text": "AP21ZW1772",
+    "confidence": 0.929,
+    "frame_ts": "2026-09-24T07:12:06.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T071206000000_100.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T07:12:06.170+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T071206170505_053.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 3,
+    "plate_text": "KA01EQ1234",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T07:12:28.311+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T071228311775_003.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 47,
+    "plate_text": "RJ70YX3296",
+    "confidence": 0.974,
+    "frame_ts": "2026-09-24T07:12:33.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T071233000000_047.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 96,
+    "plate_text": "PB72NT2533",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T07:12:50.740+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T071250740965_096.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 100,
+    "plate_text": "AP21ZW1772",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T07:12:52.147+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T071252147579_100.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 3,
+    "plate_text": "KA01EQ1234",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T07:13:35.051+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T071335051462_003.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 100,
+    "plate_text": "AP21ZW1772",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T07:13:38.095+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T071338095478_100.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 47,
+    "plate_text": "RJ70YX3296",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T07:13:52.465+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T071352465063_047.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T07:13:52.994+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T071352994406_053.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T07:14:48.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T071448000000_038.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 47,
+    "plate_text": "RJ70YX3296",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T07:14:50.784+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T071450784307_047.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 100,
+    "plate_text": "AP21ZW1772",
+    "confidence": 0.921,
+    "frame_ts": "2026-09-24T07:14:55.614+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T071455614680_100.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 100,
+    "plate_text": "AP212W1772",
+    "confidence": 0.817,
+    "frame_ts": "2026-09-24T07:15:15.412+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T071515412576_100.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 53,
+    "plate_text": "KA05KC8424",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T07:15:15.609+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T071515609164_053.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 47,
+    "plate_text": "RJ70YX3296",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T07:15:20.062+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T071520062485_047.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T07:16:15.826+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T071615826408_038.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.978,
+    "frame_ts": "2026-09-24T07:17:37.957+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T071737957079_038.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T07:18:33.360+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T071833360565_038.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T07:18:43.105+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T071843105459_038.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T07:19:26.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T071926000000_033.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.977,
+    "frame_ts": "2026-09-24T07:20:30.730+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T072030730400_033.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.923,
+    "frame_ts": "2026-09-24T07:20:56.246+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T072056246216_033.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 82,
+    "plate_text": "GJ57RW49S7",
+    "confidence": 0.705,
+    "frame_ts": "2026-09-24T07:20:57.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T072057000000_082.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 38,
+    "plate_text": "OR98FQ1744",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T07:21:05.255+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T072105255018_038.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T07:22:23.518+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T072223518859_033.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T07:23:13.672+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T072313672327_033.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 82,
+    "plate_text": "GJ57RW4957",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T07:23:29.117+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T072329117090_082.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 33,
+    "plate_text": "GA09MM9764",
+    "confidence": 0.964,
+    "frame_ts": "2026-09-24T07:24:30.868+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T072430868798_033.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 72,
+    "plate_text": "KA24CT1114",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T07:25:03.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T072503000000_072.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 82,
+    "plate_text": "GJ57RW4957",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T07:25:23.079+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T072523079071_082.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 40,
+    "plate_text": "TN48YFB838",
+    "confidence": 0.685,
+    "frame_ts": "2026-09-24T07:25:27.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T072527000000_040.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 72,
+    "plate_text": "KA24CT1114",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T07:26:16.441+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T072616441730_072.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 82,
+    "plate_text": "GJ57RW4957",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T07:26:19.570+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T072619570195_082.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 82,
+    "plate_text": "GJ57RW4957",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T07:26:45.633+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T072645633239_082.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 82,
+    "plate_text": "GJ57RW4957",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T07:27:23.560+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T072723560353_082.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 40,
+    "plate_text": "TN48YF8838",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T07:27:24.879+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T072724879996_040.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 72,
+    "plate_text": "KA24CT1114",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T07:27:47.482+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T072747482546_072.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 72,
+    "plate_text": "KA24CT1114",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T07:28:46.579+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T072846579343_072.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 40,
+    "plate_text": "TN48YF8838",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T07:29:27.256+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T072927256524_040.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T07:29:28.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T072928000000_066.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 72,
+    "plate_text": "KA24CT1114",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T07:30:08.036+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T073008036147_072.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T07:30:53.453+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T073053453175_066.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T07:31:41.242+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T073141242534_066.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 40,
+    "plate_text": "TN48YF8838",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T07:31:54.502+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T073154502545_040.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 40,
+    "plate_text": "TN48YF8838",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T07:33:10.540+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T073310540784_040.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T07:33:19.279+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T073319279261_066.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T07:33:33.934+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T073333934679_066.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T07:36:00.829+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T073600829638_066.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 66,
+    "plate_text": "GJ49AM4346",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T07:37:37.685+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T073737685227_066.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T07:38:26.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T073826000000_055.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 98,
+    "plate_text": "MP04FX5443",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T07:39:12.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T073912000000_098.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T07:40:21.606+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T074021606980_055.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 98,
+    "plate_text": "MP04FX5443",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T07:40:41.370+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T074041370452_098.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 13,
+    "plate_text": "HR36EG5515",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T07:41:11.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T074111000000_013.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T07:41:11.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T074111000000_083.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T07:41:25.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T074125000000_030.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.963,
+    "frame_ts": "2026-09-24T07:41:48.254+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T074148254863_055.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 13,
+    "plate_text": "HR36EG5515",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T07:42:07.638+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T074207638860_013.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T07:42:11.845+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T074211845517_083.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 98,
+    "plate_text": "MP04FX5443",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T07:42:27.401+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T074227401502_098.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 73,
+    "plate_text": "WB52DS4034",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T07:42:29.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T074229000000_073.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 32,
+    "plate_text": "UP20UF6917",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T07:42:44.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T074244000000_032.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T07:42:50.111+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T074250111666_030.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 13,
+    "plate_text": "HR36EG5515",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T07:43:04.931+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T074304931268_013.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 32,
+    "plate_text": "UP20UF6917",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T07:43:10.104+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T074310104084_032.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T07:43:17.042+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T074317042672_030.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T07:43:25.722+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T074325722500_055.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T07:43:28.112+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T074328112271_083.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 13,
+    "plate_text": "HR36EG5515",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T07:43:41.502+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T074341502194_013.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 73,
+    "plate_text": "WB52DS4034",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T07:43:44.411+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T074344411717_073.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 98,
+    "plate_text": "MP04FX5443",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T07:44:12.697+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T074412697803_098.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 32,
+    "plate_text": "UPZ0UF6917",
+    "confidence": 0.691,
+    "frame_ts": "2026-09-24T07:44:13.022+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T074413022489_032.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T07:44:34.030+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T074434030326_055.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T07:44:38.923+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T074438923877_083.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T07:44:55.396+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T074455396695_030.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 13,
+    "plate_text": "HR36EG5515",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T07:45:15.559+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T074515559613_013.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 55,
+    "plate_text": "UK17XS9441",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T07:45:18.106+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T074518106159_055.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 32,
+    "plate_text": "UP20UF6917",
+    "confidence": 0.979,
+    "frame_ts": "2026-09-24T07:45:24.784+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T074524784470_032.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 73,
+    "plate_text": "WB5ZDS4034",
+    "confidence": 0.603,
+    "frame_ts": "2026-09-24T07:45:25.752+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T074525752334_073.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T07:45:43.845+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T074543845144_030.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 13,
+    "plate_text": "HR36EG5S15",
+    "confidence": 0.582,
+    "frame_ts": "2026-09-24T07:45:45.075+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T074545075520_013.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T07:45:59.002+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T074559002509_083.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 48,
+    "plate_text": "TS5ZVU6119",
+    "confidence": 0.653,
+    "frame_ts": "2026-09-24T07:46:25.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T074625000000_048.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T07:46:51.276+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T074651276259_083.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 73,
+    "plate_text": "WB52DS4034",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T07:46:54.195+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T074654195486_073.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T07:47:30.348+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T074730348307_030.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 48,
+    "plate_text": "TS52VU6119",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T07:47:42.666+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T074742666377_048.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 73,
+    "plate_text": "WB52DS4034",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T07:48:32.200+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T074832200867_073.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T07:48:47.497+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T074847497117_083.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 83,
+    "plate_text": "GA84QA9087",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T07:48:57.119+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T074857119361_083.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 30,
+    "plate_text": "HP52LH2267",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T07:48:58.777+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T074858777595_030.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T07:49:13.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T074913000000_088.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 73,
+    "plate_text": "WB52DS4034",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T07:49:28.010+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T074928010126_073.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T07:49:39.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T074939000000_024.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 48,
+    "plate_text": "TS52VU6119",
+    "confidence": 0.931,
+    "frame_ts": "2026-09-24T07:49:43.856+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T074943856463_048.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T07:50:07.893+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T075007893744_088.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T07:50:24.680+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T075024680993_024.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T07:50:58.539+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T075058539283_088.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T07:51:24.838+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T075124838059_024.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 4,
+    "plate_text": "UP32AA4321",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T07:51:54.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T075154000000_004.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T07:51:58.285+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T075158285639_024.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 48,
+    "plate_text": "TS52VU6119",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T07:52:10.536+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T075210536867_048.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T07:52:11.147+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T075211147508_088.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 48,
+    "plate_text": "TS52VU6119",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T07:52:47.613+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T075247613716_048.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.957,
+    "frame_ts": "2026-09-24T07:53:03.855+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T075303855910_024.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 4,
+    "plate_text": "UP32AA43Z1",
+    "confidence": 0.722,
+    "frame_ts": "2026-09-24T07:53:11.027+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T075311027726_004.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T07:53:23.668+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T075323668621_088.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 48,
+    "plate_text": "T552VU6119",
+    "confidence": 0.805,
+    "frame_ts": "2026-09-24T07:53:56.254+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T075356254923_048.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.978,
+    "frame_ts": "2026-09-24T07:54:08.427+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T075408427190_024.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T07:54:15.202+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T075415202110_088.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 48,
+    "plate_text": "TS52VU6119",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T07:54:19.144+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T075419144467_048.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 4,
+    "plate_text": "UP32AA4321",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T07:54:24.776+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T075424776993_004.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 24,
+    "plate_text": "UK29VK0917",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T07:54:59.832+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T075459832990_024.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T07:55:00.666+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T075500666675_088.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 88,
+    "plate_text": "BR33BC6940",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T07:55:59.881+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T075559881502_088.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 4,
+    "plate_text": "UP32AA4321",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T07:56:29.239+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T075629239417_004.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 4,
+    "plate_text": "UP3ZAA4321",
+    "confidence": 0.808,
+    "frame_ts": "2026-09-24T07:57:30.227+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T075730227660_004.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 4,
+    "plate_text": "UP32AA4321",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T07:58:50.819+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T075850819652_004.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T08:04:06.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T080406000000_046.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T08:05:12.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T080512000000_043.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T08:05:18.728+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T080518728718_046.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T08:06:17.668+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T080617668301_043.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T08:06:23.274+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T080623274000_046.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:07:35.550+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T080735550878_046.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T08:08:17.687+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T080817687413_043.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T08:08:35.659+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T080835659731_043.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 43,
+    "plate_text": "WBD8HS1291",
+    "confidence": 0.703,
+    "frame_ts": "2026-09-24T08:09:20.005+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T080920005399_043.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T08:09:58.776+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T080958776602_046.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.979,
+    "frame_ts": "2026-09-24T08:10:34.372+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T081034372760_043.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 43,
+    "plate_text": "WB08HS1291",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T08:11:05.502+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T081105502536_043.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T08:11:25.719+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T081125719004_046.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 34,
+    "plate_text": "CG68IR0189",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T08:12:32.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T081232000000_034.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T08:13:00.672+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T081300672586_046.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 34,
+    "plate_text": "CG68IR0189",
+    "confidence": 0.931,
+    "frame_ts": "2026-09-24T08:13:29.100+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T081329100257_034.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 46,
+    "plate_text": "GJ34QT6933",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T08:14:09.131+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T081409131041_046.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 54,
+    "plate_text": "WB36VP3511",
+    "confidence": 0.964,
+    "frame_ts": "2026-09-24T08:14:25.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T081425000000_054.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 54,
+    "plate_text": "WB36VP3511",
+    "confidence": 0.962,
+    "frame_ts": "2026-09-24T08:14:47.697+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T081447697183_054.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 34,
+    "plate_text": "CG68IR0189",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T08:15:03.305+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T081503305275_034.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 34,
+    "plate_text": "CG68IR0189",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T08:16:03.118+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T081603118195_034.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 54,
+    "plate_text": "WB36VP3511",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T08:16:05.115+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T081605115950_054.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 54,
+    "plate_text": "WB36VP3511",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T08:16:30.479+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T081630479843_054.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 34,
+    "plate_text": "CG68IR0189",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T08:16:43.274+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T081643274933_034.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:17:29.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T081729000000_008.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 54,
+    "plate_text": "WB36VP3511",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:17:35.701+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T081735701399_054.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T08:17:52.912+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T081752912169_008.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T08:19:03.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T081903000000_077.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T08:19:03.583+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T081903583168_008.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T08:20:37.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T082037000000_051.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T08:20:57.993+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T082057993302_077.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T08:21:35.465+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T082135465987_008.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T08:22:04.515+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T082204515685_008.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:22:17.830+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T082217830468_077.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T08:22:31.916+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T082231916230_051.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T08:22:39.637+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T082239637662_008.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.921,
+    "frame_ts": "2026-09-24T08:22:53.649+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T082253649845_051.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 58,
+    "plate_text": "PB55NO0888",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T08:23:06.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T082306000000_058.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 1,
+    "plate_text": "DL04C9999",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T08:23:20.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T082320000000_001.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 8,
+    "plate_text": "KA76NB0489",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T08:23:37.654+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T082337654589_008.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 58,
+    "plate_text": "PB55NO0888",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T08:23:59.832+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T082359832776_058.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T08:24:15.608+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T082415608416_077.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 1,
+    "plate_text": "0L04C9999",
+    "confidence": 0.637,
+    "frame_ts": "2026-09-24T08:24:16.920+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T082416920988_001.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 1,
+    "plate_text": "0L04C9999",
+    "confidence": 0.62,
+    "frame_ts": "2026-09-24T08:24:43.153+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T082443153850_001.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T08:24:51.110+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T082451110832_051.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T08:24:56.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T082456000000_020.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.985,
+    "frame_ts": "2026-09-24T08:25:25.569+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T082525569062_077.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 58,
+    "plate_text": "PB55NO0888",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T08:25:29.517+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T082529517197_058.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 5,
+    "plate_text": "DL01AB1234",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T08:25:43.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T082543000000_005.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 1,
+    "plate_text": "0L04C9999",
+    "confidence": 0.754,
+    "frame_ts": "2026-09-24T08:26:03.134+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T082603134419_001.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 58,
+    "plate_text": "PB55NO0888",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T08:26:03.163+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T082603163594_058.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T08:26:31.837+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T082631837053_020.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 1,
+    "plate_text": "DL04C9999",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T08:27:03.935+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T082703935723_001.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T08:27:04.905+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T082704905316_051.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 58,
+    "plate_text": "PB55NO08B8",
+    "confidence": 0.581,
+    "frame_ts": "2026-09-24T08:27:06.372+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T082706372344_058.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T08:27:07.167+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T082707167566_020.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 51,
+    "plate_text": "UK30SH011B",
+    "confidence": 0.704,
+    "frame_ts": "2026-09-24T08:27:29.720+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T082729720096_051.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 23,
+    "plate_text": "WB21OM4423",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:28:00.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T082800000000_023.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 77,
+    "plate_text": "WB34ME4916",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T08:28:00.181+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T082800181244_077.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 5,
+    "plate_text": "DL01ABI234",
+    "confidence": 0.662,
+    "frame_ts": "2026-09-24T08:28:05.029+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T082805029917_005.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 58,
+    "plate_text": "PB55NO0888",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:28:13.165+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T082813165161_058.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 1,
+    "plate_text": "DL04C9999",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:28:13.333+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T082813333524_001.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 23,
+    "plate_text": "WB21OM4423",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T08:28:19.033+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T082819033383_023.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 51,
+    "plate_text": "UK30SH0118",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T08:28:24.068+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T082824068513_051.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:28:29.065+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T082829065290_020.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T08:29:28.742+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T082928742030_020.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 1,
+    "plate_text": "DL04C9999",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T08:29:33.735+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T082933735090_001.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 23,
+    "plate_text": "WB210M4423",
+    "confidence": 0.702,
+    "frame_ts": "2026-09-24T08:29:36.841+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T082936841933_023.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 20,
+    "plate_text": "UP49IO5978",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T08:29:49.959+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T082949959040_020.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 5,
+    "plate_text": "DL01AB1234",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:30:00.400+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T083000400891_005.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 85,
+    "plate_text": "UP14XR2547",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T08:30:01.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T083001000000_085.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 85,
+    "plate_text": "UP14XR2547",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T08:30:43.285+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T083043285049_085.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 85,
+    "plate_text": "UPI4XR2547",
+    "confidence": 0.769,
+    "frame_ts": "2026-09-24T08:30:52.722+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T083052722389_085.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 5,
+    "plate_text": "DL01AB1234",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T08:30:55.294+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T083055294859_005.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 23,
+    "plate_text": "WB21OM4423",
+    "confidence": 0.988,
+    "frame_ts": "2026-09-24T08:31:14.569+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T083114569497_023.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 95,
+    "plate_text": "RJ88HVI685",
+    "confidence": 0.698,
+    "frame_ts": "2026-09-24T08:31:33.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T083133000000_095.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 5,
+    "plate_text": "DL01AB1234",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:31:59.422+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T083159422640_005.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 23,
+    "plate_text": "WB21OM44Z3",
+    "confidence": 0.655,
+    "frame_ts": "2026-09-24T08:32:15.900+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T083215900093_023.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 45,
+    "plate_text": "TN17VP9008",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T08:32:26.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T083226000000_045.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 85,
+    "plate_text": "UP14XR2547",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T08:32:30.858+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T083230858867_085.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 95,
+    "plate_text": "RJ88HV1685",
+    "confidence": 0.929,
+    "frame_ts": "2026-09-24T08:33:04.523+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T083304523106_095.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 23,
+    "plate_text": "WB21OM4423",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T08:33:10.090+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T083310090144_023.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 85,
+    "plate_text": "UP14XRZ547",
+    "confidence": 0.595,
+    "frame_ts": "2026-09-24T08:33:30.651+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T083330651035_085.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 45,
+    "plate_text": "TN17VP9008",
+    "confidence": 0.974,
+    "frame_ts": "2026-09-24T08:33:34.900+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T083334900788_045.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 45,
+    "plate_text": "TN17VP9008",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T08:33:53.630+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T083353630122_045.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.988,
+    "frame_ts": "2026-09-24T08:34:15.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T083415000000_074.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 45,
+    "plate_text": "TN17VP9008",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T08:34:30.446+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T083430446532_045.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 85,
+    "plate_text": "UP14XR2547",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T08:34:37.431+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T083437431844_085.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 85,
+    "plate_text": "UP14XR2547",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T08:34:59.510+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T083459510163_085.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.942,
+    "frame_ts": "2026-09-24T08:35:22.871+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T083522871557_074.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 86,
+    "plate_text": "AP37TG5618",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T08:35:31.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T083531000000_086.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T08:35:33.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T083533000000_018.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 45,
+    "plate_text": "TN17VP90D8",
+    "confidence": 0.721,
+    "frame_ts": "2026-09-24T08:35:36.143+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T083536143151_045.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 79,
+    "plate_text": "CG80SD1201",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T08:35:52.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T083552000000_079.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 70,
+    "plate_text": "HR08BS7812",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T08:36:01.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T083601000000_070.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T08:36:11.502+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T083611502376_074.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 79,
+    "plate_text": "CG80SD1201",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T08:36:16.365+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T083616365724_079.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 95,
+    "plate_text": "RJ88HV1685",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T08:36:22.611+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T083622611112_095.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T08:37:15.516+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T083715516193_074.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 79,
+    "plate_text": "CG80SD1201",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T08:37:17.184+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T083717184754_079.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 86,
+    "plate_text": "AP37TG5618",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T08:37:36.132+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T083736132612_086.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 79,
+    "plate_text": "CG80SD1201",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T08:38:13.969+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T083813969146_079.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 86,
+    "plate_text": "AP37TG5618",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T08:38:28.837+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T083828837554_086.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T08:38:32.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T083832000000_028.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.923,
+    "frame_ts": "2026-09-24T08:38:37.071+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T083837071846_018.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T08:38:41.178+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T083841178375_074.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 79,
+    "plate_text": "CG80SD1201",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:39:32.146+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T083932146657_079.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 70,
+    "plate_text": "HR08BS7812",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T08:39:35.072+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T083935072729_070.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 95,
+    "plate_text": "RJ88HV1685",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T08:39:37.020+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T083937020844_095.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 70,
+    "plate_text": "HR08BS7812",
+    "confidence": 0.985,
+    "frame_ts": "2026-09-24T08:39:45.580+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T083945580427_070.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 86,
+    "plate_text": "AP37TG5618",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T08:39:55.694+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T083955694335_086.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T08:40:19.183+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T084019183366_074.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.977,
+    "frame_ts": "2026-09-24T08:40:38.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T084038000000_056.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T08:40:52.169+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T084052169382_018.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T08:41:23.939+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T084123939133_028.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 70,
+    "plate_text": "HR08BS78I2",
+    "confidence": 0.689,
+    "frame_ts": "2026-09-24T08:41:33.547+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T084133547575_070.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T08:41:55.515+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T084155515738_018.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 74,
+    "plate_text": "HP77BT1344",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T08:42:00.766+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T084200766640_074.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 70,
+    "plate_text": "HR08BS7812",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:42:26.388+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T084226388737_070.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T08:42:52.708+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T084252708878_056.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 70,
+    "plate_text": "HR088S7812",
+    "confidence": 0.809,
+    "frame_ts": "2026-09-24T08:43:20.575+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T084320575919_070.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 86,
+    "plate_text": "AP37TG5618",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:43:24.959+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T084324959969_086.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T08:43:44.398+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T084344398389_028.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T08:43:48.408+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T084348408338_018.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.988,
+    "frame_ts": "2026-09-24T08:44:01.101+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T084401101068_056.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T08:44:08.019+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T084408019350_028.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 70,
+    "plate_text": "HR08BS7812",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T08:44:40.159+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T084440159060_070.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T08:44:58.696+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T084458696472_056.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.942,
+    "frame_ts": "2026-09-24T08:45:21.493+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T084521493979_056.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 18,
+    "plate_text": "HP2SWC0751",
+    "confidence": 0.588,
+    "frame_ts": "2026-09-24T08:45:26.302+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T084526302854_018.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 28,
+    "plate_text": "TN34EH919B",
+    "confidence": 0.621,
+    "frame_ts": "2026-09-24T08:45:47.954+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T084547954274_028.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T08:46:13.083+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T084613083443_056.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 18,
+    "plate_text": "HP25WC0751",
+    "confidence": 0.99,
+    "frame_ts": "2026-09-24T08:46:27.820+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T084627820638_018.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T08:46:31.201+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T084631201053_028.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T08:46:37.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T084637000000_099.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T08:46:44.882+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T084644882505_056.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T08:47:01.445+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T084701445705_028.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:47:36.703+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T084736703184_099.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 28,
+    "plate_text": "TN34EH9198",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T08:47:47.586+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T084747586748_028.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T08:48:01.785+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T084801785185_099.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 56,
+    "plate_text": "BR32ZP6670",
+    "confidence": 0.942,
+    "frame_ts": "2026-09-24T08:48:06.687+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T084806687004_056.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 94,
+    "plate_text": "TS47ZB5863",
+    "confidence": 0.957,
+    "frame_ts": "2026-09-24T08:48:15.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T084815000000_094.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T08:49:31.184+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T084931184984_099.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 94,
+    "plate_text": "TS47ZB5863",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T08:49:53.568+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T084953568821_094.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T08:50:55.188+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T085055188739_099.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 94,
+    "plate_text": "TS47ZB5863",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T08:52:06.240+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T085206240474_094.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T08:52:29.019+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T085229019886_099.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 94,
+    "plate_text": "TS47ZB5863",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T08:53:03.584+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T085303584969_094.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 59,
+    "plate_text": "UP08MX5560",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T08:53:17.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T085317000000_059.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 94,
+    "plate_text": "TS47ZB5863",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T08:54:09.962+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T085409962551_094.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 59,
+    "plate_text": "UP08MX5560",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T08:54:21.170+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T085421170351_059.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T08:55:15.069+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T085515069441_099.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 50,
+    "plate_text": "WB09KA9639",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T08:55:51.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T085551000000_050.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 26,
+    "plate_text": "AP09GS5156",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T08:56:11.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T085611000000_026.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 59,
+    "plate_text": "UP08MX556D",
+    "confidence": 0.807,
+    "frame_ts": "2026-09-24T08:56:11.762+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T085611762553_059.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 50,
+    "plate_text": "WB09KA9639",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T08:56:20.042+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T085620042044_050.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 59,
+    "plate_text": "UP08MX5S60",
+    "confidence": 0.668,
+    "frame_ts": "2026-09-24T08:56:50.388+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T085650388024_059.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 50,
+    "plate_text": "WB09KA9639",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T08:56:56.479+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T085656479481_050.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:57:05.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T085705000000_031.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 26,
+    "plate_text": "AP09GS5156",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T08:57:23.305+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T085723305637_026.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 59,
+    "plate_text": "UP08MX5560",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T08:57:25.149+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T085725149849_059.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T08:57:31.999+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T085731999310_031.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T08:58:04.586+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T085804586455_031.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T08:58:22.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T085822000000_022.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 50,
+    "plate_text": "WB09KA9639",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T08:58:36.123+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T085836123870_050.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T08:58:42.796+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T085842796105_031.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 50,
+    "plate_text": "WB09KA9639",
+    "confidence": 0.962,
+    "frame_ts": "2026-09-24T08:58:44.046+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T085844046070_050.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.942,
+    "frame_ts": "2026-09-24T08:58:45.603+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T085845603392_022.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 99,
+    "plate_text": "MP86XZ4066",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T08:58:56.369+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T085856369304_099.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 59,
+    "plate_text": "UP08MX5560",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T08:59:04.660+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T085904660837_059.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T08:59:41.874+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T085941874503_031.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 26,
+    "plate_text": "AP09GS5156",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T08:59:55.687+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T085955687307_026.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T09:00:04.932+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T090004932262_022.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T09:00:05.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T090005000000_081.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 31,
+    "plate_text": "OR64CY077Z",
+    "confidence": 0.674,
+    "frame_ts": "2026-09-24T09:00:36.401+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T090036401846_031.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T09:01:13.107+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T090113107701_022.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 26,
+    "plate_text": "AP09GS5156",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T09:01:35.463+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T090135463085_026.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T09:02:11.949+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T090211949715_031.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T09:02:14.749+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T090214749465_022.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T09:02:57.656+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T090257656206_022.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T09:03:14.829+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T090314829416_081.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 26,
+    "plate_text": "AP09GS5156",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T09:03:17.304+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T090317304222_026.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 65,
+    "plate_text": "BR62GMD961",
+    "confidence": 0.725,
+    "frame_ts": "2026-09-24T09:03:25.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T090325000000_065.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 31,
+    "plate_text": "OR64CY0772",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T09:03:47.242+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T090347242168_031.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T09:03:47.997+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T090347997943_022.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.931,
+    "frame_ts": "2026-09-24T09:03:53.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T090353000000_067.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 17,
+    "plate_text": "UK38UT5926",
+    "confidence": 0.921,
+    "frame_ts": "2026-09-24T09:04:09.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T090409000000_017.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.99,
+    "frame_ts": "2026-09-24T09:04:16.409+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T090416409612_067.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 65,
+    "plate_text": "8R62GM0961",
+    "confidence": 0.811,
+    "frame_ts": "2026-09-24T09:04:38.562+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T090438562870_065.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 22,
+    "plate_text": "KA78UF8752",
+    "confidence": 0.979,
+    "frame_ts": "2026-09-24T09:04:51.080+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T090451080399_022.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T09:04:53.599+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T090453599163_081.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T09:05:00.043+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T090500043619_067.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 65,
+    "plate_text": "BR62GM0961",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T09:05:05.554+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T090505554058_065.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 17,
+    "plate_text": "UK38UT5926",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T09:05:18.903+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T090518903802_017.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T09:05:21.414+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T090521414005_081.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T09:05:57.375+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T090557375565_067.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T09:06:14.294+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T090614294224_081.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 17,
+    "plate_text": "UK38UT5926",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T09:06:29.691+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T090629691232_017.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T09:06:29.892+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T090629892872_067.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 65,
+    "plate_text": "BR62GM0961",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T09:07:26.573+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T090726573400_065.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 67,
+    "plate_text": "CG37NW9106",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T09:07:39.634+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T090739634008_067.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 81,
+    "plate_text": "PB09HL4670",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T09:07:46.183+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T090746183095_081.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 65,
+    "plate_text": "BR62GM0961",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T09:08:04.680+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T090804680023_065.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 29,
+    "plate_text": "UK34XS702O",
+    "confidence": 0.797,
+    "frame_ts": "2026-09-24T09:08:10.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T090810000000_029.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 81,
+    "plate_text": "PBD9HL4670",
+    "confidence": 0.761,
+    "frame_ts": "2026-09-24T09:08:37.087+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T090837087512_081.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 41,
+    "plate_text": "0R01TK8006",
+    "confidence": 0.612,
+    "frame_ts": "2026-09-24T09:08:56.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T090856000000_041.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 19,
+    "plate_text": "WB99JC3815",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T09:09:18.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T090918000000_019.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 29,
+    "plate_text": "UK34XS7020",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T09:09:22.661+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T090922661987_029.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 65,
+    "plate_text": "8R62GM0961",
+    "confidence": 0.61,
+    "frame_ts": "2026-09-24T09:09:28.252+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T090928252639_065.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 17,
+    "plate_text": "UK38UT5926",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T09:09:31.097+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T090931097310_017.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 9,
+    "plate_text": "KA28HQ9864",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T09:09:44.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T090944000000_009.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 65,
+    "plate_text": "BR62GM0961",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T09:10:00.517+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T091000517991_065.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 9,
+    "plate_text": "KA28HQ9B64",
+    "confidence": 0.575,
+    "frame_ts": "2026-09-24T09:10:09.784+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T091009784921_009.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 41,
+    "plate_text": "OR01TK8006",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T09:10:13.708+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T091013708467_041.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 19,
+    "plate_text": "WB99JC3815",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T09:10:18.458+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T091018458024_019.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 29,
+    "plate_text": "UK34XS7020",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T09:10:37.323+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T091037323116_029.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 41,
+    "plate_text": "OR01TK8006",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T09:10:43.542+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T091043542979_041.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 17,
+    "plate_text": "UK38UT5926",
+    "confidence": 0.962,
+    "frame_ts": "2026-09-24T09:10:53.498+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T091053498508_017.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 9,
+    "plate_text": "KA28HQ9864",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T09:11:04.739+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T091104739393_009.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 29,
+    "plate_text": "UK34XS7D20",
+    "confidence": 0.554,
+    "frame_ts": "2026-09-24T09:11:17.170+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T091117170841_029.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 19,
+    "plate_text": "WB99JC3815",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T09:11:33.547+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T091133547365_019.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 9,
+    "plate_text": "KA28HQ9864",
+    "confidence": 0.977,
+    "frame_ts": "2026-09-24T09:12:08.467+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T091208467946_009.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 19,
+    "plate_text": "WB99JC38I5",
+    "confidence": 0.631,
+    "frame_ts": "2026-09-24T09:12:12.120+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T091212120575_019.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 41,
+    "plate_text": "OR01TK8006",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T09:12:21.027+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T091221027303_041.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.957,
+    "frame_ts": "2026-09-24T09:12:36.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T091236000000_015.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 29,
+    "plate_text": "UK34XS7020",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T09:13:00.764+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T091300764739_029.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 9,
+    "plate_text": "KA28HQ9864",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T09:13:06.377+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T091306377370_009.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 41,
+    "plate_text": "OR01TK8006",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T09:13:38.062+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T091338062281_041.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.978,
+    "frame_ts": "2026-09-24T09:13:42.036+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T091342036073_015.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T09:15:17.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T091517000000_037.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T09:15:32.156+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T091532156122_015.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T09:16:33.870+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T091633870221_015.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T09:16:37.124+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T091637124091_037.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T09:17:08.826+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T091708826838_015.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T09:18:32.780+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T091832780800_015.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T09:18:32.971+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T091832971090_037.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T09:18:54.902+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T091854902098_037.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T09:19:25.210+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T091925210403_037.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 15,
+    "plate_text": "PB78IZ0712",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T09:20:01.202+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T092001202491_015.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T09:20:34.014+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T092034014937_037.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 84,
+    "plate_text": "TS85DE4334",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T09:22:44.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T092244000000_084.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 37,
+    "plate_text": "CG01XX4316",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T09:23:08.286+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T092308286150_037.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 84,
+    "plate_text": "TS85DE4334",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T09:23:22.205+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T092322205508_084.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 84,
+    "plate_text": "TS85DE4334",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T09:24:07.960+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T092407960637_084.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 84,
+    "plate_text": "TS85DE4334",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T09:25:53.695+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T092553695173_084.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T09:27:27.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T092727000000_035.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 63,
+    "plate_text": "UP07UR024Z",
+    "confidence": 0.763,
+    "frame_ts": "2026-09-24T09:27:30.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T092730000000_063.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.985,
+    "frame_ts": "2026-09-24T09:28:44.227+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T092844227826_035.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 63,
+    "plate_text": "UP07UR0242",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T09:30:30.181+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T093030181568_063.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T09:31:15.973+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T093115973817_035.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 63,
+    "plate_text": "UP07UR0242",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T09:31:58.063+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T093158063674_063.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T09:33:05.964+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T093305964549_035.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 63,
+    "plate_text": "UP07UR0242",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T09:33:07.514+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T093307514940_063.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 16,
+    "plate_text": "CG69DM1292",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T09:34:06.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T093406000000_016.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 16,
+    "plate_text": "CG69DM1292",
+    "confidence": 0.977,
+    "frame_ts": "2026-09-24T09:34:27.193+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T093427193248_016.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.921,
+    "frame_ts": "2026-09-24T09:34:34.893+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T093434893080_035.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 16,
+    "plate_text": "CG69DM1292",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T09:35:59.539+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T093559539623_016.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.957,
+    "frame_ts": "2026-09-24T09:36:02.165+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T093602165013_035.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 16,
+    "plate_text": "CG69DM1292",
+    "confidence": 0.974,
+    "frame_ts": "2026-09-24T09:36:36.295+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T093636295157_016.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 35,
+    "plate_text": "UP8BRY4372",
+    "confidence": 0.555,
+    "frame_ts": "2026-09-24T09:37:55.579+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T093755579055_035.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 16,
+    "plate_text": "CG69DM1292",
+    "confidence": 0.982,
+    "frame_ts": "2026-09-24T09:38:03.815+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T093803815415_016.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 35,
+    "plate_text": "UP88RY4372",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T09:38:52.762+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T093852762039_035.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 64,
+    "plate_text": "KA97HF6659",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T09:40:47.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T094047000000_064.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T09:40:48.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T094048000000_078.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 44,
+    "plate_text": "KA94PC8728",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T09:41:09.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T094109000000_044.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T09:41:23.053+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T094123053137_078.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 44,
+    "plate_text": "KA94PC8728",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T09:41:43.745+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T094143745812_044.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 64,
+    "plate_text": "KA97HF6659",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T09:42:00.416+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T094200416297_064.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 44,
+    "plate_text": "KA94PC8728",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T09:43:25.388+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T094325388351_044.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 64,
+    "plate_text": "KA97HF6659",
+    "confidence": 0.974,
+    "frame_ts": "2026-09-24T09:43:29.240+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T094329240182_064.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T09:43:47.705+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T094347705155_078.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 64,
+    "plate_text": "KA97HF6659",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T09:44:13.217+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T094413217073_064.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 44,
+    "plate_text": "KA94PC8728",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T09:44:14.852+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T094414852540_044.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.979,
+    "frame_ts": "2026-09-24T09:44:51.387+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T094451387098_078.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.963,
+    "frame_ts": "2026-09-24T09:45:21.464+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T094521464389_078.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 44,
+    "plate_text": "KA94PC8728",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T09:45:32.492+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T094532492795_044.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 52,
+    "plate_text": "KA91UB3751",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T09:45:46.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T094546000000_052.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 44,
+    "plate_text": "KA94PCB728",
+    "confidence": 0.564,
+    "frame_ts": "2026-09-24T09:45:57.084+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T094557084387_044.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 52,
+    "plate_text": "KA91UB3751",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T09:46:39.859+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T094639859117_052.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 78,
+    "plate_text": "CG41YC0153",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T09:47:21.911+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T094721911357_078.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 44,
+    "plate_text": "KA94PC87Z8",
+    "confidence": 0.776,
+    "frame_ts": "2026-09-24T09:47:35.669+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T094735669954_044.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 52,
+    "plate_text": "KA91UB37S1",
+    "confidence": 0.683,
+    "frame_ts": "2026-09-24T09:48:04.191+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T094804191607_052.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 52,
+    "plate_text": "KA91UB3751",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T09:48:34.640+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T094834640116_052.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 97,
+    "plate_text": "WB21ZZ2901",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T09:54:28.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T095428000000_097.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 61,
+    "plate_text": "CG18NF4564",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T09:54:37.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T095437000000_061.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 97,
+    "plate_text": "WB21ZZ2901",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T09:55:06.874+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T095506874676_097.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 61,
+    "plate_text": "CG18NF4564",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T09:55:55.059+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T095555059819_061.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 97,
+    "plate_text": "WB21ZZ2901",
+    "confidence": 0.934,
+    "frame_ts": "2026-09-24T09:55:59.533+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T095559533648_097.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 97,
+    "plate_text": "WB21ZZ2901",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T09:56:46.802+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T095646802592_097.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 57,
+    "plate_text": "RJ13DV7063",
+    "confidence": 0.988,
+    "frame_ts": "2026-09-24T09:56:51.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T095651000000_057.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 57,
+    "plate_text": "RJ13DV7063",
+    "confidence": 0.988,
+    "frame_ts": "2026-09-24T09:57:24.148+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T095724148797_057.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 97,
+    "plate_text": "WB2IZZ2901",
+    "confidence": 0.593,
+    "frame_ts": "2026-09-24T09:57:40.901+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T095740901188_097.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 61,
+    "plate_text": "CG18NF4564",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T09:57:50.041+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T095750041548_061.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T09:57:54.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T095754000000_036.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 57,
+    "plate_text": "RJ13DV7063",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T09:58:23.060+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T095823060438_057.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 57,
+    "plate_text": "RJ13DV7063",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T09:58:42.039+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T095842039164_057.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 61,
+    "plate_text": "CG18NF4564",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T09:58:56.435+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T095856435442_061.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 97,
+    "plate_text": "WB21Z22901",
+    "confidence": 0.727,
+    "frame_ts": "2026-09-24T09:58:59.825+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T095859825582_097.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T09:59:00.981+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T095900981189_036.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T09:59:08.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T095908000000_010.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T09:59:37.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T095937000000_071.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T10:00:07.313+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T100007313397_010.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T10:00:21.617+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T100021617454_036.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T10:01:24.724+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T100124724666_036.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T10:01:34.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T100134000000_006.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T10:01:40.175+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T100140175548_071.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 10,
+    "plate_text": "0L72GW8929",
+    "confidence": 0.732,
+    "frame_ts": "2026-09-24T10:01:54.460+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T100154460045_010.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 49,
+    "plate_text": "CG67OD4062",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T10:02:05.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T100205000000_049.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T10:02:17.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T100217000000_011.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 49,
+    "plate_text": "CG67OD4062",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T10:02:36.613+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T100236613563_049.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T10:02:43.511+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T100243511684_006.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T10:02:47.705+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T100247705759_071.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:02:51.551+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T100251551205_036.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T10:02:52.954+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T100252954996_006.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 49,
+    "plate_text": "CG67OD4062",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T10:03:02.259+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T100302259351_049.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.942,
+    "frame_ts": "2026-09-24T10:03:10.683+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T100310683538_010.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:03:38.425+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T100338425333_011.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 36,
+    "plate_text": "HR1SJN2592",
+    "confidence": 0.798,
+    "frame_ts": "2026-09-24T10:03:45.119+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T100345119715_036.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T10:04:05.206+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T100405206786_010.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:04:12.505+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T100412505196_071.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 49,
+    "plate_text": "CG67OD4062",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:04:13.202+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T100413202586_049.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 36,
+    "plate_text": "HR15JN259Z",
+    "confidence": 0.615,
+    "frame_ts": "2026-09-24T10:04:16.399+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T100416399729_036.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.938,
+    "frame_ts": "2026-09-24T10:04:25.583+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T100425583152_010.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T10:04:33.204+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T100433204316_071.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 11,
+    "plate_text": "MP29OS455B",
+    "confidence": 0.696,
+    "frame_ts": "2026-09-24T10:04:43.170+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T100443170054_011.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T10:05:04.435+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T100504435524_006.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 49,
+    "plate_text": "CG67OD4062",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T10:05:21.968+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T100521968566_049.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 2,
+    "plate_text": "MHI2AB0007",
+    "confidence": 0.726,
+    "frame_ts": "2026-09-24T10:05:33.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T100533000000_002.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T10:05:36.109+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T100536109669_011.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 71,
+    "plate_text": "OR68FB83Z1",
+    "confidence": 0.671,
+    "frame_ts": "2026-09-24T10:05:47.346+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T100547346103_071.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 36,
+    "plate_text": "HR15JN2592",
+    "confidence": 0.963,
+    "frame_ts": "2026-09-24T10:06:07.931+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T100607931403_036.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T10:06:10.066+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T100610066174_010.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.983,
+    "frame_ts": "2026-09-24T10:06:24.753+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T100624753393_011.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 2,
+    "plate_text": "MH12AB0007",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T10:06:26.603+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T100626603682_002.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:06:33.250+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T100633250195_071.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 10,
+    "plate_text": "DL72GW8929",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T10:06:57.392+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T100657392503_010.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.977,
+    "frame_ts": "2026-09-24T10:07:14.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T100714000000_060.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T10:07:23.923+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T100723923456_006.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 2,
+    "plate_text": "MH12AB0007",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T10:07:33.522+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T100733522465_002.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T10:07:50.701+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T100750701816_011.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T10:07:52.402+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T100752402751_060.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.926,
+    "frame_ts": "2026-09-24T10:07:54.495+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T100754495988_006.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 2,
+    "plate_text": "MH12AB0007",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T10:08:05.702+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T100805702814_002.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T10:08:20.180+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T100820180401_060.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T10:08:38.791+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T100838791047_011.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 6,
+    "plate_text": "UP04XI4013",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T10:08:49.654+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T100849654489_006.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T10:09:25.504+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T100925504186_060.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 71,
+    "plate_text": "OR68FB8321",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T10:09:47.120+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T100947120910_071.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.964,
+    "frame_ts": "2026-09-24T10:10:29.060+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T101029060848_060.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 11,
+    "plate_text": "MP29OS4558",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T10:10:37.893+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T101037893804_011.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 39,
+    "plate_text": "TS82QT3259",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T10:10:40.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T101040000000_039.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 39,
+    "plate_text": "TS82QT3259",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T10:11:38.787+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T101138787347_039.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 60,
+    "plate_text": "UP32GG8787",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T10:11:45.126+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T101145126273_060.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 39,
+    "plate_text": "TS82QT3259",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T10:13:39.295+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T101339295262_039.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 39,
+    "plate_text": "TS82QT3259",
+    "confidence": 0.953,
+    "frame_ts": "2026-09-24T10:14:08.117+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T101408117446_039.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 39,
+    "plate_text": "TS82QT3259",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T10:15:03.749+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T101503749000_039.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 90,
+    "plate_text": "AP21XO9039",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T10:16:55.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T101655000000_090.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 90,
+    "plate_text": "AP21XO9039",
+    "confidence": 0.978,
+    "frame_ts": "2026-09-24T10:18:17.516+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T101817516829_090.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 90,
+    "plate_text": "AP21XO9039",
+    "confidence": 0.973,
+    "frame_ts": "2026-09-24T10:18:28.743+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T101828743635_090.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 90,
+    "plate_text": "AP21XO9039",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T10:18:47.779+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T101847779280_090.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 90,
+    "plate_text": "AP21XO9039",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T10:20:12.060+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T102012060948_090.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T10:21:44.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T102144000000_069.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T10:22:45.128+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T102245128289_069.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 27,
+    "plate_text": "RJ84PM7518",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T10:22:51.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T102251000000_027.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 27,
+    "plate_text": "RJ84PM7518",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T10:23:16.896+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T102316896390_027.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T10:23:31.591+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T102331591754_069.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 27,
+    "plate_text": "RJ84PM7518",
+    "confidence": 0.972,
+    "frame_ts": "2026-09-24T10:24:23.539+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T102423539301_027.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.923,
+    "frame_ts": "2026-09-24T10:24:59.094+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T102459094803_069.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T10:25:26.224+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T102526224873_069.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 27,
+    "plate_text": "RJ84PM751B",
+    "confidence": 0.738,
+    "frame_ts": "2026-09-24T10:25:29.624+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T102529624286_027.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 27,
+    "plate_text": "RJ84PM7518",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T10:26:12.792+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T102612792724_027.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T10:26:28.112+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T102628112208_069.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 69,
+    "plate_text": "MH75XR0999",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T10:26:47.220+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T102647220230_069.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T10:27:01.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T102701000000_025.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 27,
+    "plate_text": "RJ84PM7518",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T10:27:14.282+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T102714282729_027.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 80,
+    "plate_text": "UK28QI2171",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T10:27:35.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T102735000000_080.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 80,
+    "plate_text": "UK28QI2171",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T10:27:57.609+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T102757609373_080.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 80,
+    "plate_text": "UK28QI2171",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T10:28:21.949+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T102821949217_080.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T10:28:22.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T102822000000_093.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.962,
+    "frame_ts": "2026-09-24T10:28:37.038+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T102837038322_025.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.932,
+    "frame_ts": "2026-09-24T10:28:40.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T102840000000_075.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 80,
+    "plate_text": "UK28QI2171",
+    "confidence": 0.97,
+    "frame_ts": "2026-09-24T10:29:11.820+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T102911820311_080.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T10:29:41.114+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T102941114228_075.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T10:30:04.660+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T103004660832_093.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T10:30:20.650+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T103020650555_075.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.923,
+    "frame_ts": "2026-09-24T10:30:22.742+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T103022742005_025.jpg"
+  },
+  {
+    "camera_id": "cam_011",
+    "track_id": 80,
+    "plate_text": "UK28QI2171",
+    "confidence": 0.951,
+    "frame_ts": "2026-09-24T10:30:34.671+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_011/20260924T103034671780_080.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.982,
+    "frame_ts": "2026-09-24T10:30:56.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T103056000000_021.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T10:31:11.314+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T103111314360_093.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T10:31:23.277+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T103123277209_025.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T10:32:02.925+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T103202925750_075.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T10:32:10.563+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T103210563426_021.jpg"
+  },
+  {
+    "camera_id": "cam_004",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.976,
+    "frame_ts": "2026-09-24T10:32:27.324+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_004/20260924T103227324438_025.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T10:32:48.538+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T103248538653_093.jpg"
+  },
+  {
+    "camera_id": "cam_002",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.964,
+    "frame_ts": "2026-09-24T10:32:56.120+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_002/20260924T103256120614_021.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T10:32:58.247+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T103258247811_075.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.945,
+    "frame_ts": "2026-09-24T10:33:45.132+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T103345132910_093.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.95,
+    "frame_ts": "2026-09-24T10:34:17.611+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T103417611820_021.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.961,
+    "frame_ts": "2026-09-24T10:34:29.884+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T103429884035_025.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 93,
+    "plate_text": "UK19NE0686",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T10:34:30.099+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T103430099063_093.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 7,
+    "plate_text": "WB18XD8936",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T10:34:33.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T103433000000_007.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 75,
+    "plate_text": "MP85SS8566",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T10:34:33.377+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T103433377816_075.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T10:34:42.122+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T103442122484_025.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 75,
+    "plate_text": "MP855S8566",
+    "confidence": 0.614,
+    "frame_ts": "2026-09-24T10:35:03.479+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T103503479503_075.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 25,
+    "plate_text": "WB05ZK6573",
+    "confidence": 0.935,
+    "frame_ts": "2026-09-24T10:35:15.076+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T103515076913_025.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 7,
+    "plate_text": "WB18XD8936",
+    "confidence": 0.925,
+    "frame_ts": "2026-09-24T10:35:28.242+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T103528242474_007.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 21,
+    "plate_text": "GJ48LG437S",
+    "confidence": 0.813,
+    "frame_ts": "2026-09-24T10:35:32.184+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T103532184563_021.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 7,
+    "plate_text": "WB18XD8936",
+    "confidence": 0.959,
+    "frame_ts": "2026-09-24T10:35:52.278+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T103552278974_007.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 87,
+    "plate_text": "RJ88UI8281",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T10:36:10.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T103610000000_087.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.986,
+    "frame_ts": "2026-09-24T10:36:25.767+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T103625767684_021.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 7,
+    "plate_text": "WB18XD8936",
+    "confidence": 0.924,
+    "frame_ts": "2026-09-24T10:36:50.560+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T103650560602_007.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 87,
+    "plate_text": "RJ88UI8281",
+    "confidence": 0.969,
+    "frame_ts": "2026-09-24T10:37:58.671+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T103758671627_087.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 21,
+    "plate_text": "GJ48LG4375",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T10:38:20.187+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T103820187203_021.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.96,
+    "frame_ts": "2026-09-24T10:40:48.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T104048000000_091.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T10:41:27.082+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T104127082274_091.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 87,
+    "plate_text": "RJ88UI8281",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T10:41:40.504+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T104140504631_087.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.949,
+    "frame_ts": "2026-09-24T10:41:54.826+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T104154826688_091.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 62,
+    "plate_text": "CG32CO9017",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T10:42:01.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T104201000000_062.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 62,
+    "plate_text": "CG32CO9017",
+    "confidence": 0.954,
+    "frame_ts": "2026-09-24T10:42:49.811+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T104249811896_062.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 87,
+    "plate_text": "RJ88UI8281",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T10:42:54.511+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T104254511782_087.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 92,
+    "plate_text": "TN70BL9544",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T10:43:03.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T104303000000_092.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.952,
+    "frame_ts": "2026-09-24T10:43:24.814+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T104324814005_091.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 62,
+    "plate_text": "CG32CO9017",
+    "confidence": 0.948,
+    "frame_ts": "2026-09-24T10:43:29.335+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T104329335472_062.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.985,
+    "frame_ts": "2026-09-24T10:44:03.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T104403000000_042.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 62,
+    "plate_text": "CG32CO9017",
+    "confidence": 0.955,
+    "frame_ts": "2026-09-24T10:44:10.275+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T104410275414_062.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 62,
+    "plate_text": "CG32CO9017",
+    "confidence": 0.984,
+    "frame_ts": "2026-09-24T10:44:31.202+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T104431202897_062.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.964,
+    "frame_ts": "2026-09-24T10:44:33.574+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T104433574710_091.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.968,
+    "frame_ts": "2026-09-24T10:44:55.689+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T104455689490_042.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 92,
+    "plate_text": "TN70BL9544",
+    "confidence": 0.939,
+    "frame_ts": "2026-09-24T10:45:01.204+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T104501204173_092.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 92,
+    "plate_text": "TN708L9544",
+    "confidence": 0.807,
+    "frame_ts": "2026-09-24T10:45:40.094+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T104540094152_092.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.982,
+    "frame_ts": "2026-09-24T10:45:41.197+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T104541197995_091.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.94,
+    "frame_ts": "2026-09-24T10:45:45.156+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T104545156103_042.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.978,
+    "frame_ts": "2026-09-24T10:45:56.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T104556000000_068.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T10:46:10.724+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T104610724221_042.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.966,
+    "frame_ts": "2026-09-24T10:46:37.020+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T104637020795_042.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 91,
+    "plate_text": "MP72AD1233",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T10:46:52.558+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T104652558451_091.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 92,
+    "plate_text": "TN70BL9544",
+    "confidence": 0.943,
+    "frame_ts": "2026-09-24T10:46:56.146+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T104656146677_092.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 92,
+    "plate_text": "TN70BL9544",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T10:47:30.587+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T104730587316_092.jpg"
+  },
+  {
+    "camera_id": "cam_010",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T10:48:00.366+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_010/20260924T104800366390_042.jpg"
+  },
+  {
+    "camera_id": "cam_025",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T10:48:15.519+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_025/20260924T104815519993_068.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 92,
+    "plate_text": "TN70BL9544",
+    "confidence": 0.974,
+    "frame_ts": "2026-09-24T10:48:56.599+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T104856599074_092.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 42,
+    "plate_text": "DL15LZ5039",
+    "confidence": 0.98,
+    "frame_ts": "2026-09-24T10:49:17.764+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T104917764535_042.jpg"
+  },
+  {
+    "camera_id": "cam_018",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.933,
+    "frame_ts": "2026-09-24T10:49:20.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_018/20260924T104920000000_012.jpg"
+  },
+  {
+    "camera_id": "cam_021",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T10:49:37.018+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_021/20260924T104937018866_068.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.929,
+    "frame_ts": "2026-09-24T10:50:09.767+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T105009767487_012.jpg"
+  },
+  {
+    "camera_id": "cam_022",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T10:50:10.110+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_022/20260924T105010110103_068.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.965,
+    "frame_ts": "2026-09-24T10:50:33.602+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T105033602869_012.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.971,
+    "frame_ts": "2026-09-24T10:51:05.871+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T105105871432_012.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.975,
+    "frame_ts": "2026-09-24T10:51:22.162+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T105122162445_068.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.956,
+    "frame_ts": "2026-09-24T10:51:59.099+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T105159099051_068.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 42,
+    "plate_text": "0L15LZ5039",
+    "confidence": 0.708,
+    "frame_ts": "2026-09-24T10:52:01.084+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T105201084994_042.jpg"
+  },
+  {
+    "camera_id": "cam_014",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.987,
+    "frame_ts": "2026-09-24T10:52:05.283+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_014/20260924T105205283459_012.jpg"
+  },
+  {
+    "camera_id": "cam_013",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T10:52:41.593+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_013/20260924T105241593933_012.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.944,
+    "frame_ts": "2026-09-24T10:53:22.323+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T105322323211_068.jpg"
+  },
+  {
+    "camera_id": "cam_015",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.989,
+    "frame_ts": "2026-09-24T10:53:56.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_015/20260924T105356000000_014.jpg"
+  },
+  {
+    "camera_id": "cam_005",
+    "track_id": 12,
+    "plate_text": "DL98ZF6925",
+    "confidence": 0.982,
+    "frame_ts": "2026-09-24T10:54:11.909+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_005/20260924T105411909086_012.jpg"
+  },
+  {
+    "camera_id": "cam_007",
+    "track_id": 68,
+    "plate_text": "BR20GJ3567",
+    "confidence": 0.927,
+    "frame_ts": "2026-09-24T10:54:36.579+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_007/20260924T105436579780_068.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 76,
+    "plate_text": "HR34GV5148",
+    "confidence": 0.928,
+    "frame_ts": "2026-09-24T10:55:19.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T105519000000_076.jpg"
+  },
+  {
+    "camera_id": "cam_012",
+    "track_id": 14,
+    "plate_text": "UP12MDS882",
+    "confidence": 0.747,
+    "frame_ts": "2026-09-24T10:56:09.029+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_012/20260924T105609029001_014.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 76,
+    "plate_text": "HR34GV5148",
+    "confidence": 0.946,
+    "frame_ts": "2026-09-24T10:56:32.613+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T105632613333_076.jpg"
+  },
+  {
+    "camera_id": "cam_003",
+    "track_id": 76,
+    "plate_text": "HR34GV5148",
+    "confidence": 0.93,
+    "frame_ts": "2026-09-24T10:58:05.878+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_003/20260924T105805878730_076.jpg"
+  },
+  {
+    "camera_id": "cam_009",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.936,
+    "frame_ts": "2026-09-24T10:58:32.042+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_009/20260924T105832042401_014.jpg"
+  },
+  {
+    "camera_id": "cam_006",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.92,
+    "frame_ts": "2026-09-24T10:58:58.971+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_006/20260924T105858971228_014.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 76,
+    "plate_text": "HR34GV5148",
+    "confidence": 0.947,
+    "frame_ts": "2026-09-24T10:59:03.359+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T105903359332_076.jpg"
+  },
+  {
+    "camera_id": "cam_017",
+    "track_id": 89,
+    "plate_text": "AP06AK2144",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T10:59:18.000+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_017/20260924T105918000000_089.jpg"
+  },
+  {
+    "camera_id": "cam_008",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.922,
+    "frame_ts": "2026-09-24T10:59:42.920+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_008/20260924T105942920405_014.jpg"
+  },
+  {
+    "camera_id": "cam_024",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.941,
+    "frame_ts": "2026-09-24T11:00:23.598+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_024/20260924T110023598164_014.jpg"
+  },
+  {
+    "camera_id": "cam_019",
+    "track_id": 89,
+    "plate_text": "AP06AK2144",
+    "confidence": 0.929,
+    "frame_ts": "2026-09-24T11:00:30.602+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_019/20260924T110030602002_089.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 76,
+    "plate_text": "HR34GV514B",
+    "confidence": 0.705,
+    "frame_ts": "2026-09-24T11:00:38.979+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T110038979842_076.jpg"
+  },
+  {
+    "camera_id": "cam_023",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.967,
+    "frame_ts": "2026-09-24T11:01:08.494+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_023/20260924T110108494514_014.jpg"
+  },
+  {
+    "camera_id": "cam_001",
+    "track_id": 89,
+    "plate_text": "AP06AK2144",
+    "confidence": 0.981,
+    "frame_ts": "2026-09-24T11:01:56.011+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_001/20260924T110156011420_089.jpg"
+  },
+  {
+    "camera_id": "cam_020",
+    "track_id": 14,
+    "plate_text": "UP12MD5882",
+    "confidence": 0.958,
+    "frame_ts": "2026-09-24T11:01:59.799+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_020/20260924T110159799405_014.jpg"
+  },
+  {
+    "camera_id": "cam_016",
+    "track_id": 89,
+    "plate_text": "AP06AK2144",
+    "confidence": 0.937,
+    "frame_ts": "2026-09-24T11:03:10.874+05:30",
+    "image_ref": "s3://eetal-anpr/frames/cam_016/20260924T110310874705_089.jpg"
+  }
+]
