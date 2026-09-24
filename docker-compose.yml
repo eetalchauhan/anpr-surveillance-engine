@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgis/postgis:15-3.3
+    environment:
+      POSTGRES_USER: ps127_admin
+      POSTGRES_PASSWORD: ps127_password
+      POSTGRES_DB: ps127_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - ps127_pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/app
+    environment:
+      - DATABASE_URL=postgresql://ps127_admin:ps127_password@db:5432/ps127_db
+    depends_on:
+      - db
+      - redis
+
+volumes:
+  ps127_pgdata:
