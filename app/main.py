@@ -1,12 +1,48 @@
-from fastapi import FastAPI, HTTPException, BackgroundTasks
+from fastapi import FastAPI, HTTPException, BackgroundTasks, WebSocket, WebSocketDisconnect
 from pydantic import BaseModel
 from datetime import datetime, timezone
 import asyncpg
 import os
+import json
+
+from app.services.analytics_engine import compute_density, compute_od_matrix, compute_heatmap
+from app.services.trajectory_engine import build_trajectory
+from app.services.alert_engine import check_read_anomalies
 
 app = FastAPI(title="PS127 City-Wide ANPR API")
 
 DB_URL = os.getenv("DATABASE_URL", "postgresql://ps127_admin:ps127_password@localhost:5432/ps127_db")
+
+# --- WEBSOCKET MANAGER ---
+class ConnectionManager:
+    def __init__(self):
+        self.active_connections: list[WebSocket] = []
+
+    async def connect(self, websocket: WebSocket):
+        await websocket.accept()
+        self.active_connections.append(websocket)
+
+    def disconnect(self, websocket: WebSocket):
+        if websocket in self.active_connections:
+            self.active_connections.remove(websocket)
+
+    async def broadcast(self, message: dict):
+        dead_connections = []
+        for connection in self.active_connections:
+            try:
+                await connection.send_json(message)
+            except RuntimeError:
+                # Client disconnected abruptly
+                dead_connections.append(connection)
+            except Exception as e:
+                print(f"WebSocket broadcast error: {e}")
+                dead_connections.append(connection)
+                
+        # Clean up dead connections so they don't block future alerts
+        for dead in dead_connections:
+            self.disconnect(dead)
+
+manager = ConnectionManager()
 
 # --- PYDANTIC MODELS ---
 class ReadIngest(BaseModel):
@@ -22,7 +58,7 @@ class BlacklistEntry(BaseModel):
     reason: str
     severity: str = "HIGH"
 
-# --- CORE INGESTION & DEDUPLICATION LOGIC ---
+# --- CORE INGESTION, DEDUPLICATION & ALERTS ---
 @app.post("/api/v1/reads")
 async def ingest_read(read: ReadIngest):
     conn = await asyncpg.connect(DB_URL)
@@ -44,51 +80,84 @@ async def ingest_read(read: ReadIngest):
             WHERE EXTRACT(EPOCH FROM (EXCLUDED.last_seen - vehicle_tracks.last_seen)) < 5;
         """, read.track_id, read.camera_id, read.frame_ts, read.plate_text, read.confidence)
         
+        # 3. Real-Time Alert Engine Trigger
+        alert_payload = await check_read_anomalies(
+            read.plate_text, 
+            read.camera_id, 
+            read.frame_ts, 
+            read.confidence
+        )
+        if alert_payload:
+            # Write an entry to alerts table
+            await conn.execute("""
+                INSERT INTO alerts (plate_text, camera_id, type, confidence, explanation, ts)
+                VALUES ($1, $2, $3, $4, $5, $6)
+            """, read.plate_text, read.camera_id, alert_payload["rule"], alert_payload["confidence"], json.dumps(alert_payload), read.frame_ts)
+            
+            # Immediately broadcast the payload to all connected clients
+            await manager.broadcast({
+                "type": alert_payload["rule"],
+                "plate": read.plate_text,
+                "camera": read.camera_id,
+                "explanation": alert_payload,
+                "ts": read.frame_ts.isoformat()
+            })
+
         return {"status": "ingested", "plate": read.plate_text}
     finally:
         await conn.close()
 
-# --- MOCK STUBS FOR FRONTEND UNBLOCKING ---
+# --- TRAJECTORY RECONSTRUCTION ENGINE ---
 @app.get("/api/v1/trajectory/{plate}")
 async def get_trajectory(plate: str, from_ts: str = None, to_ts: str = None):
-    # Mock data centered around Delhi transit coordinates for realistic UI plotting
-    return {
-        "plate": plate,
-        "confidence": 0.94,
-        "waypoints": [
-            {"camera_id": "CAM_01", "lat": 28.5245, "lon": 77.2955, "timestamp": "2026-09-23T08:15:00Z"},
-            {"camera_id": "CAM_04", "lat": 28.5355, "lon": 77.2845, "timestamp": "2026-09-23T08:18:30Z"}
-        ]
-    }
+    conn = await asyncpg.connect(DB_URL)
+    try:
+        return await build_trajectory(conn, plate)
+    finally:
+        await conn.close()
 
+# --- ALERTS WEBSOCKET ---
+@app.websocket("/ws/alerts")
+async def websocket_alerts(websocket: WebSocket):
+    await manager.connect(websocket)
+    await websocket.send_json({"type": "SYSTEM_CONNECTED", "message": "Listening for real-time alerts..."})
+    try:
+        while True:
+            await websocket.receive_text() # Keep connection alive
+    except WebSocketDisconnect:
+        manager.disconnect(websocket)
+
+# --- MACRO TRAFFIC ANALYTICS ENGINE (Module D) ---
 @app.get("/api/v1/analytics/density")
 async def get_density(window_minutes: int = 15):
-    return [
-        {"camera_id": "CAM_01", "vehicle_count": 84, "density_level": "HIGH"},
-        {"camera_id": "CAM_02", "vehicle_count": 12, "density_level": "LOW"}
-    ]
-
-@app.get("/api/v1/analytics/bottlenecks")
-async def get_bottlenecks():
-    return [{"segment": "CAM_01->CAM_04", "expected_sec": 120, "current_sec": 340}]
+    conn = await asyncpg.connect(DB_URL)
+    try:
+        return await compute_density(conn, window_minutes)
+    finally:
+        await conn.close()
 
 @app.get("/api/v1/analytics/od-matrix")
 async def get_od_matrix(hour: int = None, date: str = None):
-    return [{"origin": "CAM_01", "destination": "CAM_04", "trip_count": 128}]
+    conn = await asyncpg.connect(DB_URL)
+    try:
+        return await compute_od_matrix(conn, hour, date)
+    finally:
+        await conn.close()
 
 @app.get("/api/v1/analytics/heatmap")
 async def get_heatmap(time_bucket: str = None):
-    return {
-        "type": "FeatureCollection",
-        "features": [
-            {
-                "type": "Feature",
-                "geometry": {"type": "Point", "coordinates": [77.2955, 28.5245]},
-                "properties": {"density_intensity": 0.8}
-            }
-        ]
-    }
+    conn = await asyncpg.connect(DB_URL)
+    try:
+        return await compute_heatmap(conn, time_bucket)
+    finally:
+        await conn.close()
 
+@app.get("/api/v1/analytics/bottlenecks")
+async def get_bottlenecks():
+    # Stub retained per Module D architecture constraints (requires Eetal's historical baseline simulator)
+    return [{"segment": "CAM_01->CAM_04", "expected_sec": 120, "current_sec": 340}]
+
+# --- BLACKLIST MANAGEMENT & ALERT STUBS ---
 @app.get("/api/v1/alerts")
 async def get_alerts(limit: int = 10, unacknowledged_only: bool = True):
     return [
@@ -110,11 +179,3 @@ async def add_blacklist(entry: BlacklistEntry):
 @app.delete("/api/v1/blacklist/{plate}")
 async def delete_blacklist(plate: str):
     return {"status": "removed", "plate": plate}
-
-@app.websocket("/ws/alerts")
-async def websocket_alerts(websocket):
-    await websocket.accept()
-    await websocket.send_json({
-        "type": "SYSTEM_CONNECTED",
-        "message": "Listening for blacklist hits..."
-    })
